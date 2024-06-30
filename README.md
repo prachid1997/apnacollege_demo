@@ -1,2 +1,3 @@
 # apnacollege_demo
-this is my Git first repo
+this is my first Git repo
+Author - Shraddha D
